@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\TargetDesafio\bin\Debug\net8.0\TargetDesafio.exe
+C:\Users\USUARIO\source\repos\TargetDesafio\bin\Debug\net8.0\TargetDesafio.deps.json
+C:\Users\USUARIO\source\repos\TargetDesafio\bin\Debug\net8.0\TargetDesafio.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TargetDesafio\bin\Debug\net8.0\TargetDesafio.dll
+C:\Users\USUARIO\source\repos\TargetDesafio\bin\Debug\net8.0\TargetDesafio.pdb
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\TargetDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\TargetDesafio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\TargetDesafio.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\TargetDesafio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\TargetDesafio.dll
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\refint\TargetDesafio.dll
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\TargetDesafio.pdb
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\TargetDesafio.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TargetDesafio\obj\Debug\net8.0\ref\TargetDesafio.dll
+C:\Users\USUARIO\source\repos\TargetDesafio\bin\Debug\net8.0\data\dados.json
